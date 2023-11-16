@@ -1,0 +1,25 @@
+{
+  "isbn": "9780137135268",
+  "titulo": "El principito",
+  "autor": "Antonio",
+  "izquierda": {
+    "isbn": "1234567890980",
+    "titulo": "2efe",
+    "autor": "1234567890980",
+    "izquierda": {
+      "isbn": "0987654321",
+      "titulo": "ADO",
+      "autor": "0987654321",
+      "izquierda": null,
+      "derecha": null
+    },
+    "derecha": null
+  },
+  "derecha": {
+    "isbn": "9999999999999",
+    "titulo": "El otro principito",
+    "autor": "Anto\u00f1o",
+    "izquierda": null,
+    "derecha": null
+  }
+}
